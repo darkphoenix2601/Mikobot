@@ -36,7 +36,7 @@ You Protect Your Groups & Suit For All Your Needs.
 Read [Docs](https://szsupunma.gitbook.io/Mikobot-bot/) for Detailed Description and Setup Guide on deloying Bot.
 
 ####  Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploytemplate=https://github.com/szsupunma/sz-Mikobotbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploytemplate=https://github.com/darkphoenix2601/Mikobot)
 
 #### Deploy telgram [click here](http://t.me/szMikobotbot?start=deploy)
 send /deploy command after start bot or see clone page
